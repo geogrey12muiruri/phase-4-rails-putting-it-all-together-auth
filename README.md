@@ -18,7 +18,7 @@ when you're building your next project with auth. Let's get started!
 
 As with other labs in this section, there is some starter code in place for a
 Rails API backend and a React frontend. To get set up, run:
-
+user
 ```console
 $ bundle install
 $ npm install --prefix client
